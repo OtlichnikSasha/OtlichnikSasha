@@ -48,6 +48,8 @@ react-fontawesome, swiper, yup, formik, chakra ui, material ui, react-infinite-s
 - Github: https://github.com/OtlichnikSasha/Severstal-Notes-Test-App - тестовое задание: заметки. Frontend + Backend + SqlLite. Используется typescript + react + redux-toolkit + axios + react-router-dom + sass + tine editor на клиенте, node.js, express, sequelize на backendе. В качестве БД использовалась sqllite, чтобы легко склонировать и сразу увидеть проект проверяющим.
 - Github: https://github.com/OtlichnikSasha/FlaskCarRentalApp - учебный проект: аренда автомобилей. Frontend + Backend + Postgresql. Используется flask (python) + SQLAlchemy, blueprint на backendе и jinja2, HTML5, CSS3, ajax на клиенте. 
 - Github:  https://github.com/OtlichnikSasha/FlaskForumApp - учебный проект: Форум. Frontend + Backend + Postgresql. Используется flask (python) + SQLAlchemy, blueprint + flask-session на backendе и jinja2, HTML5, CSS3, ajax на клиенте. 
+- Github: https://github.com/OtlichnikSasha/VueCrmBlog - pet проект на vue: admin-panel для блога. Frontend. Используется vue, axios, vue-router.
+- Github: https://github.com/OtlichnikSasha/BackendApiForVueBlog - pet проект. Backend для admin-panel блога. Flask + SQLAlchemy + blueprint.
 
 ## Опыт работы: 
 #### - ООО "Лаки". г.Воронеж. Май 2021 - Октябрь 2021.
