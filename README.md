@@ -13,7 +13,7 @@
 - jwt (access и refresh token). Понимаю как сделать авторизацию с обновлением токена.
 
 ### UI и не только библиотеки, с которыми я работал: 
-chakra ui, material ui, react-infinite-scroller, cookies-next, dayjs, react-progress-bar, react-canvas-confetti, react-toastify, react-input-mask, formik, framer-motion, highlight-words, jsonwebtoken и др.
+redux-toolkit, redux-persist, next-redux-wrapper, react-fontawesome, sass, axios, graphql, apollo/client, swiper, yup, formik, chakra ui, material ui, react-infinite-scroller, cookies-next, dayjs, react-progress-bar, react-canvas-confetti, react-toastify, react-input-mask, formik, framer-motion, highlight-words, jsonwebtoken и др.
 
 ### Backend.
 - Понимаю связи в базе данных, как и для чего делаются промежуточные таблицы для many to many связей.
@@ -25,6 +25,7 @@ chakra ui, material ui, react-infinite-scroller, cookies-next, dayjs, react-prog
 ### Parsing
 - есть опыт написания парсеров на Python как по api, так и по DOM дереву. 
   Понимаю, что такое user-agent, как подделать авторизацию и почему сервер может заблокировать запрос.
+- есть опыт работы с Selenium.
   
 ### Работа в команде:
 - backlog: github/gitlab board, notion, trello, jira;
@@ -66,11 +67,7 @@ chakra ui, material ui, react-infinite-scroller, cookies-next, dayjs, react-prog
    - Ведение базы данных с помощью headless CMS strapi + написание бэкенда с помощью Next js.
   Стек:
     -  Next.js, React, redux-toolkit, SCSS components, TypeScript, Strapi, GraphQL, REST, Git;
-  
-
-
-
-
+ 
 <!--
 **OtlichnikSasha/OtlichnikSasha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
