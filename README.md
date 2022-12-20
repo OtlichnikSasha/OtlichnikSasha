@@ -12,13 +12,13 @@
 - axios, graphql, fetch.
 - jwt (access и refresh token). Понимаю как сделать авторизацию с обновлением токена.
 
-### UI и не только библиотеки, с которыми я работал: 
-redux-toolkit, redux-persist, next-redux-wrapper, react-fontawesome, sass, axios, graphql, apollo/client, swiper, yup, formik, chakra ui, material ui, react-infinite-scroller, cookies-next, dayjs, react-progress-bar, react-canvas-confetti, react-toastify, react-input-mask, formik, framer-motion, highlight-words, jsonwebtoken и др.
+### UI (и не только) библиотеки, с которыми я работал: 
+react-fontawesome, swiper, yup, formik, chakra ui, material ui, react-infinite-scroller, apollo/client, cookies-next, dayjs, react-progress-bar, react-canvas-confetti, react-toastify, react-input-mask, framer-motion, highlight-words, jsonwebtoken и др.
 
 ### Backend.
 - Понимаю связи в базе данных, как и для чего делаются промежуточные таблицы для many to many связей.
 - Знаю SQL. Как простые CRUD запросы, так и Join и вложенные запросы.
-- Есть опыт работы с такими ORM, как: sequelize, mongoose, SQLAlchemy, pymongo.
+- Есть опыт работы с такими ORM, как: sequelize, mongoose, SQLAlchemy, pymongo, hibernate.
 - Есть опыт работы с Node.js + Express, Python + Flask, PHP + Yii2 на уровне написания Rest API CRUDа с возможностью вытаскивания данных по foreign key и работы с cookies или session.
 - Есть опыт работы с такими СУБД, как: postgresql, mysql, sqllite и с NoSQL базой данных MongoDB.
 
@@ -38,11 +38,15 @@ redux-toolkit, redux-persist, next-redux-wrapper, react-fontawesome, sass, axios
 - https://azalianow.ru/ - интернет-магазин по продаже цвтеов. В мои обязанности входит написание клиентской части на Next.js + TypeScript + Redux-toolkit + axios/rtk query/graphql запросы на headless CMS Strapi. 
 Также, ведение базы данных с помощью headless CMS Strapi + написание backendа с помощью next.js (например, авторизация и интеграции с yandex-taxi и iqsms).
 
-- https://otlichniksasha.github.io/BWS-landing/ - landing маркетплейса по продаже лакокрасочных изделий для первой работы. Полное написание на HTML5, CSS3. Полностью адаптивный и кроссбраузерный.
+- https://otlichniksasha.github.io/BWS-landing/ - landing маркетплейса по продаже лакокрасочных изделий для первой работы. Полное написание на HTML5, CSS3. Полностью адаптивный и кроссбраузерный. Github: https://github.com/OtlichnikSasha/BWS-landing
 
-- https://otlichniksasha.github.io/StroyDomLanding/ - landing по макету фигмы. Pet проект. Адаптивный, анимированный и кроссбраузерный.
+- https://otlichniksasha.github.io/StroyDomLanding/ - landing по макету фигмы. Pet проект. Адаптивный, анимированный и кроссбраузерный. Github: https://github.com/OtlichnikSasha/StroyDomLanding
 
-- https://otlichniksasha.github.io/google-api-catalog/ - тестовое задание. Работа с google-api. Используется react, redux-toolkit, typescript, axios, SASS, material ui.
+- https://otlichniksasha.github.io/google-api-catalog/ - тестовое задание. Работа с google-api. Используется react, redux-toolkit, typescript, axios, SASS, material ui. Github: https://github.com/OtlichnikSasha/google-api-catalog
+
+#### Без ссылок:
+- Github: https://github.com/OtlichnikSasha/Severstal-Notes-Test-App - тестовое задание: заметки. Frontend + Backend + SqlLite. Используется typescript + react + redux-toolkit + axios + react-router-dom + sass + tine editor на клиенте, node.js, express, sequelize на backendе. В качестве БД использовалась sqllite, чтобы легко склонировать и сразу увидеть проект проверяющим.
+
 
 ## Опыт работы: 
 #### - ООО "Лаки". г.Воронеж. Май 2021 - Октябрь 2021.
