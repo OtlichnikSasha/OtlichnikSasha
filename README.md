@@ -33,32 +33,31 @@
 - https://otlichniksasha.github.io/google-api-catalog/ - тестовое задание. Работа с google-api. Используется react, redux-toolkit, typescript, axios, SASS, material ui. Github: https://github.com/OtlichnikSasha/google-api-catalog
 
 ## Опыт работы: 
-#### - ООО "Лаки". г.Воронеж. Май 2021 - Октябрь 2021.
+#### - ООО "Лаки"
  Обязанности: 
   - написание клиентской части маркетплейса по продаже лакокрасочных изделий, админ-панели к нему, цветочного интернет-магазина и админ панели к нему. 
   - был опыт leadства командой. Ставил сроки и распределял задачи между программистами. Имел опыт менторства над стажёром.
-  - использовали backend документацию в postman, с дизайнерами работали через figma, в качестве backlog использовали trello.
  Стек:
   - HTML5, CSS3, vanilla js, ajax, jinja2
   - Python (Flask)
 
-#### - Rocket-Lab. Удалённо. Январь 2022 - середина Апреля 2022.
+#### - Rocket-Lab
   Обязанности:
     - написание клиентской части логистического мобильного приложения.
     - в качестве backend документации - swagger.
   Стек:
     - react native, expo, axios, redux-toolkit.
 
-#### - ИП Апатов Г.Ю. Июль 2022 - январь 2023. 
+#### - ИП Апатов Г.Ю
   Обязанности:
-   - Frontend разработка:  Next.js, React, redux-toolkit, SCSS components, TypeScript, Strapi, GraphQL, REST, Git.
+   - Frontend разработка:  Next.js, React, redux-toolkit, SCSS components, framer-motion, TypeScript, Strapi, GraphQL, REST, Git.
    - Ведение базы данных с помощью headless CMS strapi + написание бэкенда с помощью Next js.
   
 
-#### - Enot.io. 
+#### - Enot.io
   Обязанности:
-   - Написание клиентской части финтех продуктов компании.
+   - Написание клиентской части финтех продуктов компании, вёрстка лендингов.
   Стек:
-    -  Next.js, React, redux-toolkit, SCSS components, TypeScript, react-query, axios;
+    -  Next.js, React, redux-toolkit, SCSS components, TypeScript, react-query, axios, framer-motion;
  
 
