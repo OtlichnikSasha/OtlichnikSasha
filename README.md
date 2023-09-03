@@ -29,7 +29,7 @@
 - https://azalianow.ru/ - интернет-магазин по продаже цвтеов. 
 - https://otlichniksasha.github.io/BWS-landing/ - landing маркетплейса по продаже лакокрасочных изделий. 
 - https://otlichniksasha.github.io/StroyDomLanding/ - landing по макету фигмы. Pet проект. 
-- https://otlichniksasha.github.io/google-api-catalog/ - тестовое задание. Работа с google-api. Используется react, redux-toolkit, typescript, axios, SASS, material ui. Github: https://github.com/OtlichnikSasha/google-api-catalog
+- https://otlichniksasha.github.io/google-api-catalog/ - тестовое задание. 
 
 ## Опыт работы: 
 #### - ООО "Лаки"
