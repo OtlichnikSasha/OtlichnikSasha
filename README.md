@@ -4,11 +4,10 @@
 ### Мой основной стек: 
 - HTML5, CSS3, CSS/SCSS modules.
 - Javscript, Typescript.
-- React, react-hooks, react-router-dom. 
-- Redux, redux-toolkit, rtk query, redux-saga, redux-persist, next-redux-wrapper.
-- Next.js.
-- axios, graphql, fetch.
-- framer-motion, mui, chakra ui
+- React.js/Next.js. 
+- Redux-toolkit, React.Context, Zustand.
+- axios, graphql, fetch, react-query, rtk query.
+- framer-motion, mui, chakra ui.
 
 ### Backend.
 - Понимание принципов построения таблиц базы данных
@@ -53,11 +52,11 @@
    - Frontend разработка:  Next.js, React, redux-toolkit, SCSS components, framer-motion, TypeScript, Strapi, GraphQL, REST, Git.
    - Ведение базы данных с помощью headless CMS strapi + написание бэкенда с помощью Next js.
   
-
 #### - Enot.io
   Обязанности:
    - Написание клиентской части финтех продуктов компании, вёрстка лендингов.
   Стек:
     -  Next.js, React, redux-toolkit, SCSS components, TypeScript, react-query, axios, framer-motion;
  
-
+### Дополнительно.
+С ноября 2022 являюсь репетитором (в дальнейшем, ментором) для 3 учеников, 2 из которых устроились на работу frontend разработчиками)
