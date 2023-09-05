@@ -18,7 +18,9 @@
 - backlog: github/gitlab board, notion, trello, jira;
 - работа с дизайнерами: figma;
 - работа с backendерами: swagger/postman;
-- git flow с настроенным ci/cd и привязкой к jira
+- git flow
+- ci/cd
+- code review
 
 ### Проекты: 
 - https://lava.ru/ - лендинг финтех компании.
