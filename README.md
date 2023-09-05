@@ -27,6 +27,7 @@
 - https://business.lava.ru/ - система для управления бизнесом.
 - https://quilop.com/ - landing платёжной системы.
 - https://azalianow.ru/ - интернет-магазин по продаже цвтеов. 
+- https://otlichniksasha.github.io/ToDoList/ - тестовое задание.
 - https://otlichniksasha.github.io/BWS-landing/ - landing маркетплейса по продаже лакокрасочных изделий. 
 - https://otlichniksasha.github.io/StroyDomLanding/ - landing по макету фигмы. Pet проект. 
 - https://otlichniksasha.github.io/google-api-catalog/ - тестовое задание. 
