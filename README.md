@@ -22,44 +22,19 @@
 - ci/cd
 - code review
 
-### Проекты: 
+### Проекты.
+# Production:
 - https://lava.ru/ - лендинг финтех компании.
 - https://lava.ru/dashboard - электронный кошелёк.
 - https://cabinet.enot.io/ - личный кабинет пользователей, подключивших систему платежей.
 - https://business.lava.ru/ - система для управления бизнесом.
 - https://quilop.com/ - landing платёжной системы.
-- https://azalianow.ru/ - интернет-магазин по продаже цвтеов. 
+- https://azalianow.ru/ - интернет-магазин по продаже цветов. 
+# Pet:
 - https://otlichniksasha.github.io/ToDoList/ - тестовое задание.
-- https://otlichniksasha.github.io/BWS-landing/ - landing маркетплейса по продаже лакокрасочных изделий. 
-- https://otlichniksasha.github.io/StroyDomLanding/ - landing по макету фигмы. Pet проект. 
+- https://otlichniksasha.github.io/BWS-landing/ - landing маркетплейса по продаже лакокрасочных изделий (был production). 
+- https://otlichniksasha.github.io/StroyDomLanding/ - landing по макету фигмы.
 - https://otlichniksasha.github.io/google-api-catalog/ - тестовое задание. 
-
-## Опыт работы: 
-#### - ООО "Лаки"
- Обязанности: 
-  - написание клиентской части маркетплейса по продаже лакокрасочных изделий, админ-панели к нему, цветочного интернет-магазина и админ панели к нему. 
-  - был опыт leadства командой. Ставил сроки и распределял задачи между программистами. Имел опыт менторства над стажёром.
- Стек:
-  - HTML5, CSS3, vanilla js, ajax, jinja2
-  - Python (Flask)
-
-#### - Rocket-Lab
-  Обязанности:
-    - написание клиентской части логистического мобильного приложения.
-    - в качестве backend документации - swagger.
-  Стек:
-    - react native, expo, axios, redux-toolkit.
-
-#### - ИП Апатов Г.Ю
-  Обязанности:
-   - Frontend разработка:  Next.js, React, redux-toolkit, SCSS components, framer-motion, TypeScript, Strapi, GraphQL, REST, Git.
-   - Ведение базы данных с помощью headless CMS strapi + написание бэкенда с помощью Next js.
-  
-#### - Enot.io
-  Обязанности:
-   - Написание клиентской части финтех продуктов компании, вёрстка лендингов.
-  Стек:
-    -  Next.js, React, redux-toolkit, SCSS components, TypeScript, react-query, axios, framer-motion;
  
 ### Дополнительно.
 С ноября 2022 являюсь репетитором (в дальнейшем, ментором) для 3 учеников, 2 из которых устроились на работу frontend разработчиками)
