@@ -31,6 +31,7 @@
 - https://quilop.com/ - landing платёжной системы.
 - https://azalianow.ru/ - интернет-магазин по продаже цветов. 
 ### Pet:
+- https://otlichniksasha.github.io/notes-react-zustand/ - заметки. pet проект.
 - https://otlichniksasha.github.io/ToDoList/ - тестовое задание.
 - https://otlichniksasha.github.io/BWS-landing/ - landing маркетплейса по продаже лакокрасочных изделий (был production). 
 - https://otlichniksasha.github.io/StroyDomLanding/ - landing по макету фигмы.
