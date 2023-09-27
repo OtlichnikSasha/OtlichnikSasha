@@ -23,14 +23,6 @@
 - code review
 
 ## Проекты.
-### Production:
-- https://lava.ru/ - лендинг финтех компании.
-- https://lava.ru/dashboard - электронный кошелёк.
-- https://cabinet.enot.io/ - личный кабинет пользователей, подключивших систему платежей.
-- https://business.lava.ru/ - система для управления бизнесом.
-- https://quilop.com/ - landing платёжной системы.
-- https://azalianow.ru/ - интернет-магазин по продаже цветов. 
-### Pet:
 - https://otlichniksasha.github.io/notes-react-zustand/ - заметки. pet проект.
 - https://otlichniksasha.github.io/ToDoList/ - тестовое задание.
 - https://otlichniksasha.github.io/BWS-landing/ - landing маркетплейса по продаже лакокрасочных изделий (был production). 
