@@ -26,8 +26,9 @@
 - https://otlichniksasha.github.io/notes-react-zustand/ - заметки. pet проект.
 - https://otlichniksasha.github.io/ToDoList/ - тестовое задание.
 - https://otlichniksasha.github.io/BWS-landing/ - landing маркетплейса по продаже лакокрасочных изделий (был production). 
-- https://otlichniksasha.github.io/StroyDomLanding/ - landing по макету фигмы.
+- https://otlichniksasha.github.io/StroyDomLanding/ - landing по макету фигма.
 - https://otlichniksasha.github.io/google-api-catalog/ - тестовое задание. 
+- https://otlichniksasha.github.io/Hydra-landing/ - landing vr очков по макету фигма.
  
 ### Дополнительно.
 С ноября 2022 являюсь репетитором (в дальнейшем, ментором) для 3 учеников, 2 из которых устроились на работу frontend разработчиками)
