@@ -2,7 +2,7 @@
 Я JavaScript developer. 
 
 ### Мой основной стек: 
-- HTML5, CSS3, CSS/SCSS modules.
+- HTML5, CSS3, CSS/SCSS modules/Tailwind.
 - Javscript, Typescript.
 - React.js/Next.js. 
 - Redux-toolkit, React.Context, Zustand.
@@ -23,12 +23,21 @@
 - code review
 
 ## Проекты.
-- https://otlichniksasha.github.io/notes-react-zustand/ - заметки. pet проект.
-- https://otlichniksasha.github.io/ToDoList/ - тестовое задание.
-- https://otlichniksasha.github.io/BWS-landing/ - landing маркетплейса по продаже лакокрасочных изделий (был production). 
-- https://otlichniksasha.github.io/StroyDomLanding/ - landing по макету фигма.
-- https://otlichniksasha.github.io/google-api-catalog/ - тестовое задание. 
-- https://otlichniksasha.github.io/Hydra-landing/ - landing vr очков по макету фигма.
+### Pet проекты и тестовые задания:
+  - https://otlichniksasha.github.io/notes-react-zustand/ - заметки. pet проект.
+  - https://otlichniksasha.github.io/Hydra-landing/ - landing vr очков по макету фигма.
+  - https://otlichniksasha.github.io/BWS-landing/ - landing маркетплейса по продаже лакокрасочных изделий (был production). 
+  - https://otlichniksasha.github.io/StroyDomLanding/ - landing по макету фигма.
+  - https://otlichniksasha.github.io/google-api-catalog/ - тестовое задание. 
+  - https://otlichniksasha.github.io/ToDoList/ - тестовое задание.
+  
+### Production проекты при работе в компании:
+ - https://azalianow.ru/
+ - https://cabinet.enot.io/
+ - https://lava.ru/dashboard
+ - https://lava.ru
+ - https://business.lava.ru/
+
  
 ### Дополнительно.
 С ноября 2022 являюсь репетитором (в дальнейшем, ментором) для 3 учеников, 2 из которых устроились на работу frontend разработчиками)
