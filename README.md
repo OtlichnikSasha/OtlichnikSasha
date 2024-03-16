@@ -28,6 +28,7 @@
  - <a href="https://cabinet.enot.io/" target="_blank" rel="noreferrer noopener">Enot.io</a>
  - <a href="https://lava.ru/dashboard" target="_blank" rel="noreferrer noopener">Lava Wallet</a>
  - <a href="https://lava.ru" target="_blank" rel="noreferrer noopener">Lava Landing</a>
+ - <a href="https://dev.lava.ru/" target="_blank" rel="noreferrer noopener">Lava documentation</a>
  - <a href="https://business.lava.ru/" target="_blank" rel="noreferrer noopener">Lava Business</a>
  - <a href="https://quilop.com/" target="_blank" rel="noreferrer noopener">Quilop</a>
 
