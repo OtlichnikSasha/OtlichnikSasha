@@ -7,7 +7,8 @@
 - React.js/Next.js. 
 - Redux-toolkit, React.Context, Zustand.
 - axios, graphql, fetch, react-query, rtk query.
-- framer-motion, mui, chakra ui.
+- framer-motion.
+- UI библиотеки: mui, chakra ui, antd
 
 ### Backend.
 - Понимание принципов построения таблиц базы данных
@@ -15,7 +16,7 @@
 - Опыт написания backendа на Node.js (express, sequelize/mongoose)
   
 ### Работа в команде:
-- backlog: github/gitlab board, notion, trello, jira;
+- backlog: github/gitlab board, notion, trello, jira, youtrack;
 - работа с дизайнерами: figma;
 - работа с backendерами: swagger/postman;
 - git flow
@@ -31,6 +32,7 @@
  - <a href="https://dev.lava.ru/" target="_blank" rel="noreferrer noopener">Lava documentation</a>
  - <a href="https://business.lava.ru/" target="_blank" rel="noreferrer noopener">Lava Business</a>
  - <a href="https://quilop.com/" target="_blank" rel="noreferrer noopener">Quilop</a>
+ - <a href="https://fcspk.ru/" target="_blank" rel="noreferrer noopener">FK Spartak Kostroma</a>
 
 ### Pet проекты и тестовые задания:
   - <a href="https://otlichniksasha.github.io/notes-react-zustand/" target="_blank" rel="noreferrer noopener">Notes App</a>
