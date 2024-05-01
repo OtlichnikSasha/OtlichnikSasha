@@ -33,6 +33,7 @@
  - <a href="https://business.lava.ru/" target="_blank" rel="noreferrer noopener">Lava Business</a>
  - <a href="https://quilop.com/" target="_blank" rel="noreferrer noopener">Quilop</a>
  - <a href="https://fcspk.ru/" target="_blank" rel="noreferrer noopener">FK Spartak Kostroma</a>
+ - <a href="https://dream-build.ru/" target="_blank" rel="noreferrer noopener">Строительство домов под ключ</a>
 
 ### Pet проекты и тестовые задания:
   - <a href="https://otlichniksasha.github.io/notes-react-zustand/" target="_blank" rel="noreferrer noopener">Notes App</a>
