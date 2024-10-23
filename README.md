@@ -8,7 +8,7 @@
 - Redux-toolkit, React.Context, Zustand.
 - axios, graphql, fetch, react-query, rtk query.
 - framer-motion.
-- UI библиотеки: mui, chakra ui, antd
+- UI библиотеки: mui, chakra ui, antd, headless ui
 
 ### Backend.
 - Понимание принципов построения таблиц базы данных
