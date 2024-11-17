@@ -34,6 +34,7 @@
  - <a href="https://quilop.com/" target="_blank" rel="noreferrer noopener">Quilop</a>
  - <a href="https://fcspk.ru/" target="_blank" rel="noreferrer noopener">FK Spartak Kostroma</a>
  - <a href="https://www.r-stroj.pro/" target="_blank" rel="noreferrer noopener">Строительство домов под ключ</a>
+ - <a href="https://invest.sovcombank.ru/" target="_blank" rel="noreferrer noopener">Совкомбанк инвестиции</a>
 
 ### Pet проекты и тестовые задания:
   - <a href="https://otlichniksasha.github.io/notes-react-zustand/" target="_blank" rel="noreferrer noopener">Notes App</a>
