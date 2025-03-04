@@ -2,13 +2,15 @@
 Я JavaScript developer. 
 
 ### Мой основной стек: 
-- HTML5, CSS3, CSS/SCSS modules/Tailwind.
+- HTML5, CSS3, CSS/SCSS modules/Tailwind/styled-components.
 - Javscript, Typescript.
 - React.js/Next.js. 
 - Redux-toolkit, React.Context, Zustand.
 - axios, graphql, fetch, react-query, rtk query.
 - framer-motion.
-- UI библиотеки: mui, chakra ui, antd, headless ui
+- UI библиотеки: mui, chakra ui, antd, headless ui, primereact
+- Ведение storybook документации
+- Опыт создания UI kit библиотеки компонентов
 
 ### Backend.
 - Понимание принципов построения таблиц базы данных
@@ -17,8 +19,8 @@
   
 ### Работа в команде:
 - backlog: github/gitlab board, notion, trello, jira, youtrack;
-- работа с дизайнерами: figma;
-- работа с backendерами: swagger/postman;
+- работа с дизайнерами: figma, pixso;
+- работа с backendерами: swagger, postman, insomnia;
 - git flow
 - ci/cd
 - code review
