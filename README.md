@@ -1,19 +1,19 @@
  Я senior JavaScript developer. 
 
  Пет и личные проекты:
- https://match-point.online/padel
- https://otlichniksasha.github.io/BWS-landing/
- https://otlichniksasha.github.io/StroyDomLanding/
- https://otlichniksasha.github.io/Hydra-landing/
+ - https://match-point.online/padel
+ - https://otlichniksasha.github.io/BWS-landing/
+ - https://otlichniksasha.github.io/StroyDomLanding/
+ - https://otlichniksasha.github.io/Hydra-landing/
 
  Публичные проекты, в которых принимал участие, как frontend/fullstack разработчик
- https://cabinet.enot.io/
- https://lava.ru/
- https://invest.sovcombank.ru/
- https://azalianow.ru/
- https://fcspk.ru/
- https://hippoparking.ru/
-
+ - https://cabinet.enot.io/
+ - https://lava.ru/
+ - https://invest.sovcombank.ru/
+ - https://azalianow.ru/
+ - https://fcspk.ru/
+ - https://hippoparking.ru/
+ 
 ### Мой основной стек: 
 - HTML5, CSS3, CSS/SCSS modules, Tailwind, styled-components.
 - Javscript, Typescript.
