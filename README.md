@@ -2,6 +2,7 @@
 
  Пет и личные проекты:
  - https://match-point.online/padel
+ - https://imdb-api-one.vercel.app/
  - https://otlichniksasha.github.io/BWS-landing/
  - https://otlichniksasha.github.io/StroyDomLanding/
  - https://otlichniksasha.github.io/Hydra-landing/
