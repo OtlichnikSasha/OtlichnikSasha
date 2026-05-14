@@ -17,20 +17,11 @@
 
 ## Пет-проекты и личные проекты
 
-- [Match Point Padel](https://match-point.online/padel)  
-  Проект для падел-направления: интерфейс, структура страниц, пользовательский опыт.
-
+- [Match Point](https://match-point.online/padel)  
 - [IMDb API App](https://imdb-api-one.vercel.app/)  
-  Приложение для работы с IMDb API.
-
 - [BWS Landing](https://otlichniksasha.github.io/BWS-landing/)  
-  Лендинг с адаптивной версткой и визуальной подачей продукта.
-
 - [StroyDom Landing](https://otlichniksasha.github.io/StroyDomLanding/)  
-  Лендинг для строительной тематики.
-
 - [Hydra Landing](https://otlichniksasha.github.io/Hydra-landing/)  
-  Визуальный лендинг с акцентом на аккуратную верстку и презентацию.
 
 ## Коммерческие и публичные проекты
 
@@ -68,16 +59,3 @@ Module Federation, SDK development, distributed cache, Storybook, UI kit develop
 
 **Other experience:**  
 Telegram Mini Apps, Web3
-
-## Немного обо мне
-
-Мне интересно не просто «писать компоненты», а собирать интерфейсы в устойчивые системы:  
-с понятной архитектурой, предсказуемым состоянием, удобной разработкой и хорошим пользовательским опытом.
-
-Ценю чистый код, сильную командную коммуникацию и продукты, в которых frontend — это не только про внешний вид, но и про надежность, скорость и удобство развития.
-
-
-
-
-19:52
-
