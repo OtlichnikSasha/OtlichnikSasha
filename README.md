@@ -1,21 +1,21 @@
-# Привет, я Александр 👋
+# Hi, I'm Aleksandr 👋
 
-Я Senior JavaScript Developer с опытом во frontend и fullstack-разработке.  
-Люблю создавать понятные, быстрые и аккуратные интерфейсы, продумывать архитектуру, развивать UI-системы и доводить продукты до состояния, когда ими приятно пользоваться.
+I'm a Senior JavaScript Developer with experience in frontend and fullstack development.  
+I enjoy building clear, fast and polished interfaces, designing architecture, developing UI systems and bringing products to a state where they feel pleasant to use.
 
-В работе чаще всего занимаюсь React/Next.js-приложениями, сложными интерфейсами, интеграциями с API, дизайн-системами, Storybook, SDK, микрофронтендами и продуктовой разработкой.
+Most of my work involves React/Next.js applications, complex interfaces, API integrations, design systems, Storybook, SDKs, micro frontends and product development.
 
-## Чем я занимаюсь
+## What I Do
 
-- Разрабатываю frontend для коммерческих и продуктовых проектов
-- Проектирую архитектуру React/Next.js-приложений
-- Создаю и поддерживаю UI kit / component libraries
-- Настраиваю Storybook-документацию
-- Работаю с REST, GraphQL, OpenAPI, codegen и клиентскими SDK
-- Участвую в fullstack-разработке и интеграциях
-- Имею опыт с tg-mini-app, web3, module federation и распределенным кешем
+- Develop frontend for commercial and product projects
+- Design the architecture of React/Next.js applications
+- Create and maintain UI kits / component libraries
+- Set up Storybook documentation
+- Work with REST, GraphQL, OpenAPI, codegen and client SDKs
+- Contribute to fullstack development and integrations
+- Have experience with Telegram Mini Apps, Web3, Module Federation and distributed caching
 
-## Пет-проекты и личные проекты
+## Pet Projects and Personal Projects
 
 - [Match Point](https://match-point.online/padel)  
 - [IMDb API App](https://imdb-api-one.vercel.app/)  
@@ -23,18 +23,19 @@
 - [StroyDom Landing](https://otlichniksasha.github.io/StroyDomLanding/)  
 - [Hydra Landing](https://otlichniksasha.github.io/Hydra-landing/)  
 
-## Коммерческие и публичные проекты
+## Commercial and Public Projects
 
-В качестве frontend/fullstack-разработчика участвовал в разработке публичных проектов:
+As a frontend/fullstack developer, I contributed to public projects:
 
 - [ENOT Cabinet](https://cabinet.enot.io/)
+- [Tg mini app gifts portal](https://t.me/portals/market?startapp=cez0wh)
 - [Lava](https://lava.ru/)
-- [Совкомбанк Инвестиции](https://invest.sovcombank.ru/)
+- [Sovcombank Investments](https://invest.sovcombank.ru/)
 - [Azalia Now](https://azalianow.ru/)
-- [ФК СПК](https://fcspk.ru/)
+- [FC SPK](https://fcspk.ru/)
 - [Hippo Parking](https://hippoparking.ru/)
 
-## Основной стек
+## Core Stack
 
 **Frontend:**  
 HTML5, CSS3, SCSS Modules, CSS Modules, Tailwind CSS, styled-components
