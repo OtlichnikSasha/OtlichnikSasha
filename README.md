@@ -16,8 +16,6 @@
 - Имею опыт с tg-mini-app, web3, module federation и распределенным кешем
 
 ## Пет-проекты и личные проекты
-
-- [Match Point](https://match-point.online/padel)  
 - [IMDb API App](https://imdb-api-one.vercel.app/)  
 - [BWS Landing](https://otlichniksasha.github.io/BWS-landing/)  
 - [StroyDom Landing](https://otlichniksasha.github.io/StroyDomLanding/)  
