@@ -1,39 +1,40 @@
-# Привет, я Александр 👋
+# Hi, I'm Alexander
 
-Я Senior JavaScript Developer с опытом во frontend и fullstack-разработке.  
-Люблю создавать понятные, быстрые и аккуратные интерфейсы, продумывать архитектуру, развивать UI-системы и доводить продукты до состояния, когда ими приятно пользоваться.
+I'm a Senior JavaScript Developer with experience in frontend and fullstack development.
+I enjoy building clear, fast, and polished interfaces, designing architecture, developing UI systems, and bringing products to a state where they are genuinely pleasant to use.
 
-В работе чаще всего занимаюсь React/Next.js-приложениями, сложными интерфейсами, интеграциями с API, дизайн-системами, Storybook, SDK, микрофронтендами и продуктовой разработкой.
+Most often, I work on React/Next.js applications, complex interfaces, API integrations, design systems, Storybook, SDKs, microfrontends, and product development.
 
-## Чем я занимаюсь
+## What I Do
 
-- Разрабатываю frontend для коммерческих и продуктовых проектов
-- Проектирую архитектуру React/Next.js-приложений
-- Создаю и поддерживаю UI kit / component libraries
-- Настраиваю Storybook-документацию
-- Работаю с REST, GraphQL, OpenAPI, codegen и клиентскими SDK
-- Участвую в fullstack-разработке и интеграциях
-- Имею опыт с tg-mini-app, web3, module federation и распределенным кешем
+- Develop frontend for commercial and product-focused projects
+- Design architecture for React/Next.js applications
+- Create and maintain UI kits / component libraries
+- Set up Storybook documentation
+- Work with REST, GraphQL, OpenAPI, codegen, and client-side SDKs
+- Contribute to fullstack development and integrations
+- Have experience with Telegram Mini Apps, Web3, Module Federation, and distributed caching
 
-## Пет-проекты и личные проекты
-- [IMDb API App](https://imdb-api-one.vercel.app/)  
-- [BWS Landing](https://otlichniksasha.github.io/BWS-landing/)  
-- [StroyDom Landing](https://otlichniksasha.github.io/StroyDomLanding/)  
-- [Hydra Landing](https://otlichniksasha.github.io/Hydra-landing/)  
+## Pet Projects and Personal Projects
 
-## Коммерческие и публичные проекты
+- [IMDb API App](https://imdb-api-one.vercel.app/)
+- [BWS Landing](https://otlichniksasha.github.io/BWS-landing/)
+- [StroyDom Landing](https://otlichniksasha.github.io/StroyDomLanding/)
+- [Hydra Landing](https://otlichniksasha.github.io/Hydra-landing/)
 
-В качестве frontend/fullstack-разработчика участвовал в разработке публичных проектов:
+## Commercial and Public Projects
+
+As a frontend/fullstack developer, I contributed to the development of public projects including:
 
 - [ENOT Cabinet](https://cabinet.enot.io/)
 - [Tg mini app gifts portal](https://t.me/portals/market?startapp=cez0wh)
 - [Lava](https://lava.ru/)
-- [Совкомбанк Инвестиции](https://invest.sovcombank.ru/)
+- [Sovcombank Investments](https://invest.sovcombank.ru/)
 - [Azalia Now](https://azalianow.ru/)
-- [ФК СПК](https://fcspk.ru/)
+- [FC SPK](https://fcspk.ru/)
 - [Hippo Parking](https://hippoparking.ru/)
 
-## Основной стек
+## Core Stack
 
 Frontend:  
 HTML5, CSS3, SCSS Modules, CSS Modules, Tailwind CSS, styled-components
@@ -48,13 +49,13 @@ State management:
 Redux Toolkit, React Context, Zustand, Effector
 
 API & Data fetching:  
-openapi-fetch, OpenAPI Codegen, Axios, Fetch API, GraphQL, React Query, RTK Query
+openapi-fetch, openapi-react-query, tanstack-query, Axios, Fetch API, GraphQL, React Query, RTK Query
 
 UI & Animation:  
 MUI, Chakra UI, Ant Design, Headless UI, PrimeReact, Framer Motion
 
 Architecture & Tooling:  
-Module Federation, SDK development, distributed cache, Storybook, UI kit development
+Module Federation, SDK development, distributed caching, Storybook, UI kit development
 
 Other experience:  
 Telegram Mini Apps, Web3
